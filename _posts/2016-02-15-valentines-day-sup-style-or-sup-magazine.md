@@ -1,17 +1,9 @@
 ---
-author:
-  - name: SUP Magazine
-    url: 'http://www.supthemag.com/author/sup_staff/?rel=author'
-    avatar: {}
-  - name: Google Plus
-    url: 'https://plus.google.com/+Supthemag/posts?rel=author'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.supthemag.com'
-  name: SUP Magazine
-  favicon: 'http://stwww.supthemag.com/wp-content/themes/supthemag.com/favicon.ico'
-  domain: www.supthemag.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - paddle
   - sup
@@ -24,17 +16,27 @@ keywords:
   - adage
   - enjoys
 description: "Valentine's Day is just a day away and if you're still scrambling to make plans with your special someone, SUP the Mag has you covered. Instead of trying to make last minute dinner reservations like everyone else, spend some quality paddling time with your sweetheart."
-inLanguage: en
+datePublished: '2016-02-15T00:05:15.946Z'
+dateModified: '2016-02-15T00:03:34.205Z'
+author:
+  - name: SUP Magazine
+    url: 'http://www.supthemag.com/author/sup_staff/?rel=author'
+    avatar: {}
+  - name: Google Plus
+    url: 'https://plus.google.com/+Supthemag/posts?rel=author'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.supthemag.com/videos/valentines-day-sup/#sz0UebmzYQxwAYOz.97'
 title: "Valentine's Day - SUP Style | SUP Magazine"
-datePublished: '2016-02-15T00:02:07.504Z'
-dateModified: '2016-02-14T23:59:32.256Z'
 sourcePath: _posts/2016-02-15-valentines-day-sup-style-or-sup-magazine.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SUP Magazine
+  domain: www.supthemag.com
+  url: 'http://www.supthemag.com'
+  favicon: 'http://stwww.supthemag.com/wp-content/themes/supthemag.com/favicon.ico'
+url: valentines-day-sup-style-or-sup-magazine/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
