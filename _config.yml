@@ -23,7 +23,7 @@ color:
     - '#fef200'
     - '#0060aa'
   brandStrength: 0.6875
-  lightness: 0.625
+  lightness: 0.6875
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
