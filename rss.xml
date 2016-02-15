@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Relaxation, Fitness, and FUN!]]></title>
+        <description><![CDATA[Relaxation, Fitness, and FUN!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 00:03:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finding Balance: A Simple Way To Destress And Enjoy Life]]></title>
+            <description><![CDATA[<article><h1>Finding Balance: A Simple Way To Destress And Enjoy Life</h1><p>Finding balance By Kate Watson Life is about striking a balance; so cliché, yet so true. It is an age-old struggle about following your dreams, making enough money to fulfill them, and finding time for family, friends and adventure. Recently I have been out of balance. How can I tell?</p><img src="http://standupjournal.standupjournal.netdna-cdn.com/wp-content/uploads/2015/07/FullSizeRender.jpg"></article>]]></description>
+            <link>http://standupjournal.com/finding-balance-a-simple-way-to-destress-and-enjoy-life/</link>
+            <guid isPermaLink="false">e1e4aa75-b29f-4d17-b20b-fb8f18850c0e</guid>
+            <pubDate>Mon, 15 Feb 2016 00:02:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
