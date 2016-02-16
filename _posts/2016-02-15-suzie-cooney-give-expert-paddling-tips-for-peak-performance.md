@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://standupjournal.com/suzie-cooney-give-expert-paddling-tips-for-peak-performance/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - standup
   - suzie
@@ -17,8 +17,8 @@ keywords:
   - virtuent
   - outdoorsman
 description: 'Great video from author Suzie Cooney where she give tons of tips for off water training that will help with stroke, balance, agility, and will definitely burn some calories!'
-datePublished: '2016-02-15T19:20:59.150Z'
-dateModified: '2016-02-15T19:20:54.064Z'
+datePublished: '2016-02-16T03:05:14.850Z'
+dateModified: '2016-02-16T03:05:09.126Z'
 author:
   - name: Adam Champagne
     url: null
