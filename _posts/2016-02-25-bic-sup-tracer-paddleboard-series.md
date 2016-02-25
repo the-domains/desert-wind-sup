@@ -1,10 +1,14 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://youtu.be/VBf0LgXhdX8'
-inLanguage: en
-starred: false
+author:
+  - name: BIC Sport
+    url: 'https://www.youtube.com/user/BicSportWatersports'
+    avatar: {}
+related: []
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
 keywords:
   - sup
   - duration
@@ -17,13 +21,7 @@ keywords:
   - terrien
   - touring
 description: "BIC SUP's new TRACER series (\"Touring-Racer\") excels as both a performance race board and an all-purpose touring board. Designed for riders who want speed and glide as well as comfort and stability, these new shapes are heavily influenced by the RACE-PRO series of high performance racing machines (fine-tuned by professional racers Eric Terrien and Chase Kosterlitz) and the award-winning Wing Touring series (lauded for their stability and ease of use)."
-datePublished: '2016-02-25T13:51:36.825Z'
-dateModified: '2016-02-25T13:51:17.745Z'
-author:
-  - name: BIC Sport
-    url: 'https://www.youtube.com/user/BicSportWatersports'
-    avatar: {}
-related: []
+inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=VBf0LgXhdX8&feature=applinks'
     type: ios
@@ -61,15 +59,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
+isBasedOnUrl: 'https://youtu.be/VBf0LgXhdX8'
 title: BIC SUP Tracer paddleboard series
-authors: []
-publisher:
-  name: YouTube
-  domain: youtu.be
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+datePublished: '2016-02-25T13:51:17.487Z'
+dateModified: '2016-02-25T02:29:08.112Z'
 sourcePath: _posts/2016-02-25-bic-sup-tracer-paddleboard-series.md
 published: true
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
