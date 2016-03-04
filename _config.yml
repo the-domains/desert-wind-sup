@@ -1,20 +1,4 @@
-name: Desert Wind SUP
-favicon: null
-layout_spectrum: 0.39801
-typography_spectrum: 0.07283
-title: 'Desert Wind SUP - Relaxation, Fitness, and FUN!'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#f67f21'
     - '#fef200'
     - '#0060aa'
-  brandStrength: 0.6875
+  brandStrength: 0
   lightness: 0.5625
-  saturation: 0.4375
   rhythmicContrast: 0.75
+  saturation: 0.4375
+cta: {}
+layout_spectrum: 0.39801
+name: Desert Wind SUP
+opengraph: {}
 purpose: []
+typography_spectrum: 0.07283
