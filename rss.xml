@@ -4,15 +4,8 @@
         <description><![CDATA[Desert Wind SUP]]></description>
         <link>http://desertwindsup.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 04:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 04:45:58 GMT</lastBuildDate>
         <atom:link href="http://desertwindsup.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SUP Women | Roxy Davis | SUP Magazine]]></title>
-            <description><![CDATA[<article><h1>SUP Women | Roxy Davis | SUP Magazine</h1><p>Taking up standup paddling primarily to fulfill her thirst for water time when surf wasn't up to par, South Africa's national surf champion, Roxy Davis, fell in love with SUP not long after stepping aboard. Davis' romance with the sport allowed her to take on new titles in another realm of wave-riding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d24afb6198422eadad3d3269b636fbf5bb454c4.jpg"></article>]]></description>
-            <link>http://www.supthemag.com/sup-women/sup-women-roxy-davis/#GujD4UUPfKJ78QHX.97</link>
-            <guid isPermaLink="false">1debed93-539d-4942-8607-d913769d8153</guid>
-            <pubDate>Sat, 26 Mar 2016 04:45:33 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[World of Sunfish]]></title>
             <description><![CDATA[<article><h1>World of Sunfish</h1><p>No matter what your skill level, gender, or age, the World of Sunfish has something for you. Sail, paddle, race, relax - It's easier than ever to get out on the water with Sunfish. Check it out: www.worldofsunfish.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d687fa3d9cee831f28336ba7483bdb6398ea37d1.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.sup-internationalmag.com/when-the-board-is-your-mat/</link>
             <guid isPermaLink="false">8d497d94-803d-4117-9d40-319857a65032</guid>
             <pubDate>Mon, 15 Feb 2016 01:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valentine's Day - SUP Style | SUP Magazine]]></title>
+            <description><![CDATA[<article><h1>Valentine's Day - SUP Style | SUP Magazine</h1><p>Valentine's Day is just a day away and if you're still scrambling to make plans with your special someone, SUP the Mag has you covered. Instead of trying to make last minute dinner reservations like everyone else, spend some quality paddling time with your sweetheart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16a6cefb4802219f088ad743c8d25676bda4f644.png"></article>]]></description>
+            <link>http://desertwindsup.com/valentines-day-sup-style-or-sup-magazine/index.html</link>
+            <guid isPermaLink="false">1948c501-5294-4aab-a691-56238e511069</guid>
+            <pubDate>Mon, 15 Feb 2016 00:05:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
