@@ -4,8 +4,15 @@
         <description><![CDATA[Desert Wind SUP]]></description>
         <link>http://desertwindsup.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 15:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 15:14:55 GMT</lastBuildDate>
         <atom:link href="http://desertwindsup.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Three Common Mistakes]]></title>
+            <description><![CDATA[<article><h1>Three Common Mistakes</h1><p>When I was in high school I did a lot of ski racing and was fortunate to have some very good coaches work with me. One of the things that always intrigued me was how the right combination of words could have a profound effect on a person's understanding and visualization of a desired movement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0b5ad3495e6e0e86798d013232053f874025240.jpg"></article>]]></description>
+            <link>http://www.davidkalama.com/three-common-mistakes/</link>
+            <guid isPermaLink="false">435ef5f0-5dc0-4646-aa30-126324277cb0</guid>
+            <pubDate>Sat, 23 Apr 2016 15:14:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to SUP with your dog. Summer is star...]]></title>
             <description><![CDATA[<article><h1>How to SUP with your dog. Summer is star...</h1><p>How to SUP with your dog. Summer is starting. We decided to teach our beloved Golden Retriever Happy how to stand up paddle with us. Wondering how to turn your dog into a stand up paddle lover? Here are the steps we followed: 1/ In the garden (2 weeks) - Introduce the board to your dog.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61fb6b544f2d2a40bbaa45b8361f8e9a1fee418a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://supconnect.com/destinations/paddle-boarding-central-idaho-u-s-a</link>
             <guid isPermaLink="false">02240b47-ba80-42d8-ab65-097cd71c4387</guid>
             <pubDate>Tue, 16 Feb 2016 03:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suzie Cooney Give Expert Paddling Tips for Peak Performance]]></title>
-            <description><![CDATA[<article><h1>Suzie Cooney Give Expert Paddling Tips for Peak Performance</h1><p>Great video from author Suzie Cooney where she give tons of tips for off water training that will help with stroke, balance, agility, and will definitely burn some calories!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b6e5c983176a18eddd11b213cae61198522160.jpg"></article>]]></description>
-            <link>http://standupjournal.com/suzie-cooney-give-expert-paddling-tips-for-peak-performance/</link>
-            <guid isPermaLink="false">2080db1d-b131-4155-9f6b-c4aadadca989</guid>
-            <pubDate>Tue, 16 Feb 2016 03:05:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
