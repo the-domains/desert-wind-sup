@@ -1,4 +1,3 @@
-layout_spectrum: 0.2113855225034058
 typography_spectrum: 0.33099540579132736
 color:
   brandColors:
@@ -12,16 +11,13 @@ color:
   rhythmicContrast: 0.21943077445030212
   saturation: 0.3824195978231728
 opengraph: {}
+layout_spectrum: 0.2113855225034058
 analytics: {}
 author:
   name: Rob Gibbs
   email: Rob@desertwindsailboats.com
 name: Desert Wind SUP
 cta: {}
-navigation:
-  - name: About
-    id: 4ae13d76-746f-4825-811d-7b62bc34fb58
-    type: content
 title: Desert Wind SUP
 description: Finding SUP in the Beauty of the Desert
 purpose: []
