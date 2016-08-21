@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.07283
 color:
   brandColors:
     - '#ffffff'
@@ -10,9 +10,10 @@ color:
   lightness: 0.5625
   rhythmicContrast: 0.75
   saturation: 0.4375
-cta: {}
-layout_spectrum: 0.39801
-name: Desert Wind SUP
 opengraph: {}
+layout_spectrum: 0.39801
+analytics: {}
+name: Desert Wind SUP
+cta: {}
+title: Desert Wind SUP
 purpose: []
-typography_spectrum: 0.07283
