@@ -24,6 +24,9 @@ navigation:
   - name: Learn
     id: dfd630e4-7dd7-4567-9975-19d546cd17b5
     type: content
+  - name: About
+    id: 4ae13d76-746f-4825-811d-7b62bc34fb58
+    type: content
 title: Desert Wind SUP
 description: Finding SUP in the Beauty of the Desert
 purpose: []
