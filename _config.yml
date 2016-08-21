@@ -13,6 +13,9 @@ color:
 opengraph: {}
 layout_spectrum: 0.39801
 analytics: {}
+author:
+  name: Rob Gibbs
+  email: Rob@desertwindsailboats.com
 name: Desert Wind SUP
 cta: {}
 navigation:
