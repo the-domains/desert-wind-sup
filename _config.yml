@@ -1,17 +1,17 @@
-typography_spectrum: 0.07283
+layout_spectrum: 0.2113855225034058
+typography_spectrum: 0.33099540579132736
 color:
   brandColors:
-    - '#ffffff'
-    - '#231f20'
-    - '#f67f21'
-    - '#fef200'
-    - '#0060aa'
-  brandStrength: 0.336993
-  lightness: 0.5625
-  rhythmicContrast: 0.75
-  saturation: 0.4375
+    - '#000000'
+    - '#44B3E4'
+    - '#F9EE4D'
+    - '#F26E45'
+    - '#767676'
+  brandStrength: 0.8737099829595536
+  lightness: 0.9561963479500264
+  rhythmicContrast: 0.21943077445030212
+  saturation: 0.3824195978231728
 opengraph: {}
-layout_spectrum: 0.39801
 analytics: {}
 author:
   name: Rob Gibbs
