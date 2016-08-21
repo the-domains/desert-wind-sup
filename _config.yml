@@ -20,6 +20,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f13e82a-62ee-434f-8dbd-30c9fac85af8.gif
 name: Desert Wind SUP
 cta: {}
+navigation:
+  - name: Learn
+    id: dfd630e4-7dd7-4567-9975-19d546cd17b5
+    type: content
 title: Desert Wind SUP
 description: Finding SUP in the Beauty of the Desert
 purpose: []
