@@ -27,6 +27,8 @@ navigation:
   - name: About
     id: 4ae13d76-746f-4825-811d-7b62bc34fb58
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f090da9c-18f5-41ac-9b1f-c69b420d0499.png
 title: Desert Wind SUP
 description: Finding SUP in the Beauty of the Desert
 purpose: []
