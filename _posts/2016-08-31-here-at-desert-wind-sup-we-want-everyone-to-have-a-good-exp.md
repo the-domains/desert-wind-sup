@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T16:32:34.928Z'
+datePublished: '2016-08-31T16:32:48.088Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T16:31:16.135Z'
+dateModified: '2016-08-31T16:32:45.196Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,9 +12,9 @@ description: >-
   training in the industry - PaddleFitPro CORE Certification. Now, we still
   don't take ourselves to seriously, but you should feel good knowing that we
   have training from some of the best and first innovators in the sport.
-starred: false
 sourcePath: >-
   _posts/2016-08-31-here-at-desert-wind-sup-we-want-everyone-to-have-a-good-exp.md
+starred: false
 _type: Blurb
 
 ---
